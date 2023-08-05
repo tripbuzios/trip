@@ -1,0 +1,64 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Encabezado */
+header {
+    background-color: #3498db;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+/* Paseos */
+#paseos {
+    padding: 40px;
+    background-color: #f2f2f2;
+    text-align: center;
+}
+
+.paseo {
+    margin-bottom: 40px;
+}
+
+.paseo img {
+    max-width: 100%;
+}
+
+/* Contacto */
+#contacto {
+    background-color: #e74c3c;
+    color: white;
+    padding: 40px;
+    text-align: center;
+}
+
+/* Pie de página */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}

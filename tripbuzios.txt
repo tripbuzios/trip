@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agencia de Turismo en Búzios</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Agencia de Turismo en Búzios</h1>
+        <nav>
+            <ul>
+                <li><a href="#paseos">Paseos</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="paseos">
+        <h2>Descubre nuestros emocionantes paseos</h2>
+        <div class="paseo">
+            <img src="paseo1.jpg" alt="Paseo 1">
+            <h3>Paseo en Barco</h3>
+            <p>Disfruta de las aguas cristalinas de Búzios en un relajante paseo en barco.</p>
+        </div>
+        <div class="paseo">
+            <img src="paseo2.jpg" alt="Paseo 2">
+            <h3>Exploración de Playas</h3>
+            <p>Visita las playas más hermosas y escondidas que Búzios tiene para ofrecer.</p>
+        </div>
+        <!-- Agrega más paseos aquí -->
+    </section>
+
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <p>¡Estamos emocionados de ayudarte a planificar tu próxima aventura en Búzios!</p>
+        <p>Para más información, contáctanos: <a href="mailto:info@buziostours.com">info@buziostours.com</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Agencia de Turismo en Búzios</p>
+    </footer>
+</body>
+</html>
